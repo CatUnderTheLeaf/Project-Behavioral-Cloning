@@ -16,9 +16,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/normal.png "Normal Image"
-[image2]: ./examples/flipped.png "Flipped Image"
-[image3]: ./examples/plot.png "Loss plot"
+[image1]: ./examples/normal.jpg "Normal Image"
+[image2]: ./examples/flipped.jpg "Flipped Image"
+[image3]: ./examples/plot.jpg "Loss plot"
 [video1]: ./video.mp4 "Video"
 
 ## Rubric Points
